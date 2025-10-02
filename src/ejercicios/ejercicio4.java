@@ -23,7 +23,7 @@ public class ejercicio4 {
             System.out.println(" Sobrepeso");
         }
         if (Imc>=30 ) {
-            System.out.println(" ");
+            System.out.println("Obesidad");
         }
 
 
