@@ -1,6 +1,8 @@
+package ejercicios;
+
 import java.util.Scanner;
 
-public class Main {
+public class ejercicio1 {
     public static void main(String[] args) {
         System.out.println("Buenas, ¿qué edad tienes?");
         Scanner sc = new Scanner(System.in);
@@ -26,4 +28,6 @@ public class Main {
         }
 
         sc.close();
+
     }
+}
